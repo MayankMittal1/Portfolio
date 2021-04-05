@@ -47,7 +47,7 @@ header{
     position: absolute;
     z-index: 2;
     color: white;
-    font-size: calc(50px + 6vw);
+    font-size: calc(30px + 6vw);
     font-weight: bolder;
     animation: fadeInUp 1s .5s ease both;
     letter-spacing: 5px;
