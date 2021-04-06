@@ -301,6 +301,9 @@ footer{
     .about-title h2{
         font-size: 35px;
     }
+    .about-content{
+        width: 70%;
+    }
     .about-content p{
         font-size: 20px;
     }
