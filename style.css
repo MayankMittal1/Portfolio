@@ -386,11 +386,11 @@ footer{
         flex-direction: column;
     }
     .footer-left{
-        margin-left: 15%;
+        margin-left: 14%;
         width: 80%;
     }
     .footer-right{
-        margin-left: 15%;
+        margin-left: 14%;
         width: 80%;
     }
 }
