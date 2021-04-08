@@ -68,17 +68,17 @@ html {
     .nav > .nav-btn > label {
       display: inline-block;
       width: 50px;
-      height: 40px;
-      padding-top: 10px;
+      height: 35px;
+      padding-top: 15px;
     }
     .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
       background-color: rgba(0, 0, 0, 0.3);
     }
     .nav > .nav-btn > label > span {
-        margin-left: 10px;
+        margin-left: 12px;
       display: block;
       width: 25px;
-      height: 10px;
+      height: 7px;
       border-top: 2px solid #eee;
     }
     .nav > .nav-links {
