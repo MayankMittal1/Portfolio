@@ -178,8 +178,25 @@ header{
     height: 100%;
     border-radius: 3px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: all 0.6s ease;
 }
-
+#Capa_1{
+    animation: dil 2s infinite;
+}
+@keyframes dil{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.2);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+.project:hover{
+    transform: translateY(-10px);
+}
 .project-title{
     padding-top: 10px;
     display: flex;
